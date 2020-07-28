@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I'm @anthann, living in GuangZhou(A.K.A Canton).
+
 <!--
 **anthann/anthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
