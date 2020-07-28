@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm @anthann, living in GuangZhou(A.K.A Canton).
+- 💼 I'm currently working on some lower level system service written by C++.
 
 <!--
 **anthann/anthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
