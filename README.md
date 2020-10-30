@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I'm @anthann, living in GuangZhou(A.K.A Canton).
-- 💼 I'm currently working on some lower level system service written by C++.
+- 🌱 I'm a programmer of WeChat team, Tencent.
+- 🏡 Living at GuangZhou, China.
+- 💼 Currently I'm interested in WebAssembly. 
 
 <!--
 **anthann/anthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
